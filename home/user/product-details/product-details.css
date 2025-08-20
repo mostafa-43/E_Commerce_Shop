@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    /* padding-top: 70px; */
+}
+
+.nav a {
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.nav a:hover {
+    color: #0d6efd;
+}
+
+#product-description {
+    font-size: 1rem;
+    color: #555;
+}
+
+.product-img {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.product-img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+}

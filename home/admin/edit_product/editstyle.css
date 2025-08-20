@@ -1,0 +1,52 @@
+.showtreeline {
+  overflow: hidden;
+  display: block;
+  display: -webkit-box;
+  /* fallback */
+  -webkit-box-orient: vertical;
+  line-clamp: 3;
+  /* modern property (some browsers) */
+  -webkit-line-clamp: 3;
+  /* fallback for WebKit */
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+  transition: color 0.3s;
+}
+
+.nav-link:hover {
+  color: #ffc107 !important;
+}
+
+/* Product area */
+
+
+.product-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
+
+
+
+/* Search button styling */
+.btn-dark {
+  background-color: #788694;
+  border-radius: 20px;
+  padding: 0.4rem 1.2rem;
+}
+
+.btn-dark:hover {
+  background-color: #23272b;
+}
