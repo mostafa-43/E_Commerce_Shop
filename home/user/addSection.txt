@@ -1,0 +1,425 @@
+
+<!-- 
+                <!-- adding new section -->
+            <section  id="category-header" class="category-header section asd2">
+
+                <div class="container" id="asd2" data-aos="fade-up">
+
+                <!-- Filter and Sort Options -->
+                <div class="filter-container mb-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="row mt-3">
+                    <div class="col-12" data-aos="fade-up" data-aos-delay="200">
+                        <div class="active-filters">
+                        <span class="active-filter-label">Active Filters:</span>
+                        <div class="filter-tags">
+                            <span class="filter-tag">
+                            Shoes <button class="filter-remove"><i class="bi bi-x"></i></button>
+                            </span>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+                    
+
+                </div>
+
+                </div>
+
+            </section><!-- /Category Header Section -->
+
+            <!-- Category Product List Section -->
+            <section id="category-product-list" class="category-product-list section">
+                <div id="asd2>"></div>
+
+                <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+                <div class="row g-4" id="menCaregorytwo">
+                    <!-- Product 1 -->
+                    <!-- <div class="col-6 col-xl-4">
+                    <div class="product-card" data-aos="zoom-in">
+                        <div class="product-image">
+                        <img src="assets/img/product/product-f-1.webp" class="main-image img-fluid" alt="Product">
+                        <img src="assets/img/product/product-f-2.webp" class="hover-image img-fluid" alt="Product Variant">
+                        <div class="product-overlay">
+                            <div class="product-actions">
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Quick View">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Add to Cart">
+                                <i class="bi bi-cart-plus"></i>
+                            </button>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="product-details">
+                        <div class="product-category">Women's Fashion</div>
+                        <h4 class="product-title"><a href="product-details.html">Tempor Incididunt</a></h4>
+                        <div class="product-meta">
+                            <div class="product-price">$129.00</div>
+                            <div class="product-rating">
+                            <i class="bi bi-star-fill"></i>
+                            4.8 <span>(42)</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+
+                    <!-- Product 2 -->
+                    <!-- <div class="col-6 col-xl-4">
+                    <div class="product-card" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="product-image">
+                        <img src="assets/img/product/product-m-1.webp" class="main-image img-fluid" alt="Product">
+                        <img src="assets/img/product/product-m-2.webp" class="hover-image img-fluid" alt="Product Variant">
+                        <div class="product-overlay">
+                            <div class="product-actions">
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Quick View">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Add to Cart">
+                                <i class="bi bi-cart-plus"></i>
+                            </button>
+                            </div>
+                        </div>
+                        <div class="product-badge new">New</div>
+                        </div>
+                        <div class="product-details">
+                        <div class="product-category">Men's Collection</div>
+                        <h4 class="product-title"><a href="product-details.html">Elit Consectetur</a></h4>
+                        <div class="product-meta">
+                            <div class="product-price">$95.00</div>
+                            <div class="product-rating">
+                            <i class="bi bi-star-fill"></i>
+                            4.6 <span>(28)</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+
+                    <!-- Product 3 -->
+                    <!-- <div class="col-6 col-xl-4">
+                    <div class="product-card" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="product-image">
+                        <img src="assets/img/product/product-f-3.webp" class="main-image img-fluid" alt="Product">
+                        <img src="assets/img/product/product-f-4.webp" class="hover-image img-fluid" alt="Product Variant">
+                        <div class="product-overlay">
+                            <div class="product-actions">
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Quick View">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Add to Cart">
+                                <i class="bi bi-cart-plus"></i>
+                            </button>
+                            </div>
+                        </div>
+                        <div class="product-badge sale">-25%</div>
+                        </div>
+                        <div class="product-details">
+                        <div class="product-category">Accessories</div>
+                        <h4 class="product-title"><a href="product-details.html">Adipiscing Magna</a></h4>
+                        <div class="product-meta">
+                            <div class="product-price">
+                            $75.00
+                            <span class="original-price">$99.00</span>
+                            </div>
+                            <div class="product-rating">
+                            <i class="bi bi-star-fill"></i>
+                            4.9 <span>(56)</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+                </div>
+                </div>
+            </section>
+
+
+
+
+
+
+
+
+                <!-- adding new section -->
+            <section  id="category-header" class="category-header section asd2">
+
+                <div class="container" id="asd2" data-aos="fade-up">
+
+                <!-- Filter and Sort Options -->
+                <div class="filter-container mb-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="row mt-3">
+                    <div class="col-12" data-aos="fade-up" data-aos-delay="200">
+                        <div class="active-filters">
+                        <span class="active-filter-label">Active Filters:</span>
+                        <div class="filter-tags">
+                            <span class="filter-tag">
+                            Accessories <button class="filter-remove"><i class="bi bi-x"></i></button>
+                            </span>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    
+
+                </div>
+
+                </div>
+
+            </section><!-- /Category Header Section -->
+
+            <!-- Category Product List Section -->
+            <section id="category-product-list" class="category-product-list section">
+                <div id="asd2>"></div>
+
+                <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+                <div class="row g-4" id="menCaregorythere">
+                    <!-- Product 1 -->
+                    <!-- <div class="col-6 col-xl-4">
+                    <div class="product-card" data-aos="zoom-in">
+                        <div class="product-image">
+                        <img src="assets/img/product/product-f-1.webp" class="main-image img-fluid" alt="Product">
+                        <img src="assets/img/product/product-f-2.webp" class="hover-image img-fluid" alt="Product Variant">
+                        <div class="product-overlay">
+                            <div class="product-actions">
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Quick View">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Add to Cart">
+                                <i class="bi bi-cart-plus"></i>
+                            </button>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="product-details">
+                        <div class="product-category">Women's Fashion</div>
+                        <h4 class="product-title"><a href="product-details.html">Tempor Incididunt</a></h4>
+                        <div class="product-meta">
+                            <div class="product-price">$129.00</div>
+                            <div class="product-rating">
+                            <i class="bi bi-star-fill"></i>
+                            4.8 <span>(42)</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+
+                    <!-- Product 2 -->
+                    <!-- <div class="col-6 col-xl-4">
+                    <div class="product-card" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="product-image">
+                        <img src="assets/img/product/product-m-1.webp" class="main-image img-fluid" alt="Product">
+                        <img src="assets/img/product/product-m-2.webp" class="hover-image img-fluid" alt="Product Variant">
+                        <div class="product-overlay">
+                            <div class="product-actions">
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Quick View">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Add to Cart">
+                                <i class="bi bi-cart-plus"></i>
+                            </button>
+                            </div>
+                        </div>
+                        <div class="product-badge new">New</div>
+                        </div>
+                        <div class="product-details">
+                        <div class="product-category">Men's Collection</div>
+                        <h4 class="product-title"><a href="product-details.html">Elit Consectetur</a></h4>
+                        <div class="product-meta">
+                            <div class="product-price">$95.00</div>
+                            <div class="product-rating">
+                            <i class="bi bi-star-fill"></i>
+                            4.6 <span>(28)</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+
+                    <!-- Product 3 -->
+                    <!-- <div class="col-6 col-xl-4">
+                    <div class="product-card" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="product-image">
+                        <img src="assets/img/product/product-f-3.webp" class="main-image img-fluid" alt="Product">
+                        <img src="assets/img/product/product-f-4.webp" class="hover-image img-fluid" alt="Product Variant">
+                        <div class="product-overlay">
+                            <div class="product-actions">
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Quick View">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Add to Cart">
+                                <i class="bi bi-cart-plus"></i>
+                            </button>
+                            </div>
+                        </div>
+                        <div class="product-badge sale">-25%</div>
+                        </div>
+                        <div class="product-details">
+                        <div class="product-category">Accessories</div>
+                        <h4 class="product-title"><a href="product-details.html">Adipiscing Magna</a></h4>
+                        <div class="product-meta">
+                            <div class="product-price">
+                            $75.00
+                            <span class="original-price">$99.00</span>
+                            </div>
+                            <div class="product-rating">
+                            <i class="bi bi-star-fill"></i>
+                            4.9 <span>(56)</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+                </div>
+                </div>
+            </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <!-- adding new section -->
+            <section  id="category-header" class="category-header section asd2">
+
+                <div class="container" id="section4" data-aos="fade-up">
+
+                <!-- Filter and Sort Options -->
+                <div class="filter-container mb-4" data-aos="fade-up" data-aos-delay="100" >
+                    <div class="row mt-3">
+                    <div class="col-12" data-aos="fade-up" data-aos-delay="200">
+                        <div class="active-filters">
+                        <span class="active-filter-label">Active Filters:</span>
+                        <div class="filter-tags">
+                            <span class="filter-tag">
+                            Specialty Sizes <button class="filter-remove"><i class="bi bi-x"></i></button>
+                            </span>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    
+
+                </div>
+
+                </div>
+
+            </section><!-- /Category Header Section -->
+
+            <!-- Category Product List Section -->
+            <section id="category-product-list" class="category-product-list section">
+                <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+                <div class="row g-4" id="menCaregoryfour">
+                    <!-- Product 1 -->
+                    <!-- <div class="col-6 col-xl-4">
+                    <div class="product-card" data-aos="zoom-in">
+                        <div class="product-image">
+                        <img src="assets/img/product/product-f-1.webp" class="main-image img-fluid" alt="Product">
+                        <img src="assets/img/product/product-f-2.webp" class="hover-image img-fluid" alt="Product Variant">
+                        <div class="product-overlay">
+                            <div class="product-actions">
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Quick View">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Add to Cart">
+                                <i class="bi bi-cart-plus"></i>
+                            </button>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="product-details">
+                        <div class="product-category">Women's Fashion</div>
+                        <h4 class="product-title"><a href="product-details.html">Tempor Incididunt</a></h4>
+                        <div class="product-meta">
+                            <div class="product-price">$129.00</div>
+                            <div class="product-rating">
+                            <i class="bi bi-star-fill"></i>
+                            4.8 <span>(42)</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+
+                    <!-- Product 2 -->
+                    <!-- <div class="col-6 col-xl-4">
+                    <div class="product-card" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="product-image">
+                        <img src="assets/img/product/product-m-1.webp" class="main-image img-fluid" alt="Product">
+                        <img src="assets/img/product/product-m-2.webp" class="hover-image img-fluid" alt="Product Variant">
+                        <div class="product-overlay">
+                            <div class="product-actions">
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Quick View">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Add to Cart">
+                                <i class="bi bi-cart-plus"></i>
+                            </button>
+                            </div>
+                        </div>
+                        <div class="product-badge new">New</div>
+                        </div>
+                        <div class="product-details">
+                        <div class="product-category">Men's Collection</div>
+                        <h4 class="product-title"><a href="product-details.html">Elit Consectetur</a></h4>
+                        <div class="product-meta">
+                            <div class="product-price">$95.00</div>
+                            <div class="product-rating">
+                            <i class="bi bi-star-fill"></i>
+                            4.6 <span>(28)</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+
+                    <!-- Product 3 -->
+                    <!-- <div class="col-6 col-xl-4">
+                    <div class="product-card" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="product-image">
+                        <img src="assets/img/product/product-f-3.webp" class="main-image img-fluid" alt="Product">
+                        <img src="assets/img/product/product-f-4.webp" class="hover-image img-fluid" alt="Product Variant">
+                        <div class="product-overlay">
+                            <div class="product-actions">
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Quick View">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                            <button type="button" class="action-btn" data-bs-toggle="tooltip" title="Add to Cart">
+                                <i class="bi bi-cart-plus"></i>
+                            </button>
+                            </div>
+                        </div>
+                        <div class="product-badge sale">-25%</div>
+                        </div>
+                        <div class="product-details">
+                        <div class="product-category">Accessories</div>
+                        <h4 class="product-title"><a href="product-details.html">Adipiscing Magna</a></h4>
+                        <div class="product-meta">
+                            <div class="product-price">
+                            $75.00
+                            <span class="original-price">$99.00</span>
+                            </div>
+                            <div class="product-rating">
+                            <i class="bi bi-star-fill"></i>
+                            4.9 <span>(56)</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div> -->
+                </div>
+                </div>
+            </section>
+
+            </div>
